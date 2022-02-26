@@ -19,6 +19,8 @@ You must have npm installed in order to use this build environment.
 
 This Bootstrap is an open source library of free Bootstrap templates and themes. Modified Them
 
+Direct Link - https://tusharkurhekar.github.io/
+
 * <https://startbootstrap.com>
 
 
